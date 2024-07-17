@@ -8,7 +8,7 @@
       "methods": [
         "post"
       ],
-      "rewrite": "123",
+      "rewrite": "1234",
       "redirect": "new-url",
       "statusCode": 200,
       "allowedRoles": [
