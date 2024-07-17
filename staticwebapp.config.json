@@ -18,6 +18,22 @@
       "headers": {
         "name1": "value1"
       }
+    },
+    {
+      "route": "profile1",
+      "methods": [
+        "post"
+      ],
+      "rewrite": "123",
+      "redirect": "new-url",
+      "statusCode": 200,
+      "allowedRoles": [
+        "admin",
+        "authenticated1"
+      ],
+      "headers": {
+        "name11": "value11"
+      }
     }
   ]
 }
