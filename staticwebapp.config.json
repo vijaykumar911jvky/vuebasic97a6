@@ -4,20 +4,6 @@
   },
   "routes": [
     {
-      "route": "/test-1",
-      "methods": [
-        "get",
-        "head",
-        "post",
-        "put",
-        "delete",
-        "connect",
-        "options",
-        "trace",
-        "patch"
-      ]
-    },
-    {
       "route": "/test-2"
     },
     {
